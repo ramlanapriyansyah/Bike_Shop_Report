@@ -11,6 +11,9 @@ A project-based power BI course that provides a complete discussion from data pr
 - Data Preparation, Data Visualization - Microsoft Power BI
 
 # Findings
+
+![Dashboard](image.png)
+
 - In June 2022, the company generated USD 24.9 million in revenue, with a profit of USD 10.5 million, 25,200 orders, and a return rate of 2.2%.
 - The United States has the highest number of orders compared to other countries, totaling 8,700 orders. Australia comes in second with 6,060 orders.
 - The most ordered product was in Tires and Tubes category, while the most returned was in Short category.
